@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.title {
+    padding: 15px 45px;
+    border: 1px solid #f5deb37b;
+    text-align: center;
+    font-size: 24px;
+    color: azure;
+}

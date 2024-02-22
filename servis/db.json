@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$2bfvyiAYv/E9EMOM6qm.1.Rhs1kHyl1B0ui/SQDVkHfOERQ3JkVrO",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "name": "banana",
+      "url": "https://raw.githubusercontent.com/QurbonbekovaSabira/Agriculture-WebFlow/main/src/assets/img/product2.2.png",
+      "id": "3"
+    },
+    {
+      "name": "tomate",
+      "url": "https://raw.githubusercontent.com/QurbonbekovaSabira/Agriculture-WebFlow/main/src/assets/img/product4.2.png",
+      "id": "4"
+    },
+    {
+      "name": "aaaaaaaaaa",
+      "url": "https://raw.githubusercontent.com/QurbonbekovaSabira/Agriculture-WebFlow/main/src/assets/img/product1.2.png",
+      "id": "nscRZIR"
+    }
+  ]
+}
